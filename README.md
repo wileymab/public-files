@@ -7,5 +7,4 @@
 
 
 
-__Docker Base__
 <a href="https://www.google.com"><img src="http://bit.ly/2WcQ74B"/></a>
